@@ -14,10 +14,9 @@ header {
   font-family: Arial;
 }
      
-.media {
-  width: 100vw;
-  position: relative;
-  top: 100px;
+body {
+  background-image: ./Images/Sunset_Veleta.jpg;
+  background-color: black;
 }
       
 
