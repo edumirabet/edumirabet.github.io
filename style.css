@@ -69,19 +69,19 @@
   }
 }
 
-header.navbar {
+.home_header {
   position: relative;
   margin: auto;
   letter spacing: 4px;
 }
 
-header.home_image {
+.home_image {
   max-width: 100%;
   vetical-align: middle;
   
 }
 
-header.home_image_text {
+.home_image_text {
   position: absolute;
   top: 50%;
   left: 50%;  
