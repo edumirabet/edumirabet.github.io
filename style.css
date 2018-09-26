@@ -2,7 +2,7 @@
 margin: 0;
 }
 
-.navbar {
+header {
   background-color: black;
   opacity: 1;
   overflow: hidden;
@@ -11,7 +11,7 @@ margin: 0;
   width: 100%;
 }
 
-.navbar a {
+header a {
   float: left;
   text-align: center;
   text-decoration: none;
@@ -23,21 +23,21 @@ margin: 0;
   border-radius: 4px;
 }
   
-.navbar a.logo {
+header a.logo {
   font-size: 27px;
   font-weight: bold;
 }
 
 /* Change the background color on mouse-over */
 
-.navbar a:hover {
+header a:hover {
   background-color: white;
   color: black;
 }
 
 /* Style the active/current link*/
 
-.navbar a.active {
+header a.active {
   background-color: gray;
   color: black;
 }
