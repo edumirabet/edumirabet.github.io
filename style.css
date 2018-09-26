@@ -63,7 +63,7 @@ header a.active {
   }
 }
 
-.home_image {
+body {
   background-image: url("Images/Veleta_Sunset.jpg");
   background-repeat: no-repeat;
   width: 100%;
