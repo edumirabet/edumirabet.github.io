@@ -71,6 +71,7 @@ body {
 
 .short_intro {
   display: block;
+  position: relative;
   top: 350px;
 }
       
