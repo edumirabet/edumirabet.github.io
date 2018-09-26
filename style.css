@@ -71,8 +71,9 @@ body {
 
 p.short_intro {
   display: block;
-  position: relative;
+  position: absolute;
   top: 350px;
+  background-color: white;
 }
       
 
