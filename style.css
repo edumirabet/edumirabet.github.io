@@ -70,11 +70,8 @@ body {
 }
 
 .short_intro {
-    display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
+  display: block;
+  top: 350px;
 }
       
 
