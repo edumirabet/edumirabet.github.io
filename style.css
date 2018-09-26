@@ -72,9 +72,10 @@ body {
 p.short_intro {
   display: block;
   position: absolute;
-  top: 350px;
+  top: 500px;
   background-color: white;
   width: 100%;
+  padding: 100px;
 }
       
 
