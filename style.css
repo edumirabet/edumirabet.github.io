@@ -3,17 +3,19 @@ margin: 0;
 padding: 0;
 }
 
-header {
-  background-color: black;
-  opacity: 1;
+.navbar {
+  background-color: #fff;
+  color: #000;
   overflow: hidden;
-  padding: 10px 0px;
+  padding: 8px 16px;
   position: fixed;
   width: 100%;
-  z-index: 10000;
+  z-index: 1;
+  top: 0;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
-header a {
+.navbar a {
   float: left;
   text-align: center;
   text-decoration: none;
@@ -23,30 +25,31 @@ header a {
   color: white;
   line height: 27px;
   border-radius: 4px;
+  letter-spacing: 3px;
 }
   
-header a.logo {
+.navbar a.logo {
   font-size: 27px;
   font-weight: bold;
 }
 
 /* Change the background color on mouse-over */
 
-header a:hover {
-  background-color: white;
+.navbar a:hover {
+  background-color: gray;
   color: black;
 }
 
 /* Style the active/current link*/
 
-header a.active {
+.navbar a.active {
   background-color: gray;
   color: black;
 }
 
 /* Float the link section to the right */
 
-.header-right {
+.navbar-right {
   float: right;
 }
 
