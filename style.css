@@ -69,8 +69,8 @@ header a.active {
   background-size: 100%;
 }*/
 
-.image_center {
-  image-size: 100%;
+.home_image {
+  width: 100%;
   position: fixed;
   z-index: -100;
 }
