@@ -91,8 +91,12 @@
   transform: translate(-50%,-50%);
   text-align: center !important;
   color: white;
-  font-size: 50px;
-  
+  font-size: 35px;
+}
+
+.text_black {
+  background-color: black;
+  opacity: 0.8;
 }
   
 
