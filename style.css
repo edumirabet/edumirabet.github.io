@@ -69,7 +69,7 @@ body {
   background-size: 100%;
 }
 
-.short_intro {
+p.short_intro {
   display: block;
   position: relative;
   top: 350px;
