@@ -63,12 +63,18 @@ header a.active {
   }
 }
 
-body {
-  margin: 0;
+/*body {
   background-image: url("Images/Veleta_Sunset.jpg"); 
   background-repeat: no-repeat;
   background-size: 100%;
+}*/
+
+.image_center {
+  image-size: 100%;
+  position: fixed;
+  z-index: -100;
 }
+  
 
 p.short_intro {
   display: block;
