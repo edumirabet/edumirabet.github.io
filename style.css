@@ -125,6 +125,11 @@
   letter-spacing: 3px;
 }
 
+.cards_container {
+  grid-template-columns: repeat (3, 33%);
+}
+
+
 /*
 p.short_intro {
   display: block;
