@@ -126,7 +126,7 @@
 }
 
 .cards_container {
-  grid-template-columns: repeat (3, 33%);
+  grid-template-columns: 33% 33% 33%;
 }
 
 
