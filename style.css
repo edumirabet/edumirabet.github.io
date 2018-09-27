@@ -115,11 +115,12 @@
 
 }
 
-.section.title {
+.section_title {
   border-color: #f1f1f1 !important;
   padding-top: 16px !important;
   padding-bottom: 16px !important;
   border-bottom: 1px solid #ccc !important;
+  font-size: 20px;
 }
 
 /*
