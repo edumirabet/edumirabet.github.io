@@ -125,8 +125,13 @@
   letter-spacing: 3px;
 }
 
-.cards_container {
+.cards_grid_area {
+  display: grid;
   grid-template-columns: 33% 33% 33%;
+}
+
+.cards {
+  background-color: blue;
 }
 
 
