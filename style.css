@@ -101,8 +101,14 @@
   padding: 8px 16px;
   border-radius: 5px;
 }
-  
 
+.content {
+  max-width: 1564px;
+  padding: 8px 100px !important;
+  margin: auto;
+}
+
+/*
 p.short_intro {
   display: block;
   position: absolute;
@@ -119,5 +125,5 @@ p.short_intro {
   margin-left: auto;
   margin-right: auto;
 }
-      
+*/
 
