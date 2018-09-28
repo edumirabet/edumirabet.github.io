@@ -146,6 +146,7 @@ h4 {
  /*+width: 33.3333%;*/
   padding: 0 8px;
   margin-bottom: 16px !important;
+  margin-top: 16px !important;
   float: left;
 }
 
@@ -156,7 +157,7 @@ h4 {
 }
 
 .card_text {
-  padding: 0.01em 16px;
+  padding: 10 16px;
 }
 
 @media only screen and (max-width: 1564px) {
