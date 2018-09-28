@@ -131,6 +131,13 @@
 
 .card_container {
   position: relative;
+  width: 33.3333%;
+  margin-bottom: 16px !important;
+  float: left;
+}
+
+.card {
+  position: relative;
 }
 
 /*
