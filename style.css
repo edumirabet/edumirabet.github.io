@@ -144,7 +144,15 @@
     }
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
+    .responsive {
+        width: 100%;
+        float: none;
+        display: block;
+  }
+}
+
+@media only screen and (max-width: 600px) {
     .responsive {
         width: 100%;
         float: none;
