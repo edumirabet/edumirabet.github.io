@@ -127,11 +127,13 @@
 
 .cards_row{
   padding: 0 8px;
+  box-sizing: inherit;
 }
 
 .card_container {
   position: relative;
   width: 33.3333%;
+  padding: 0 8px;
   margin-bottom: 16px !important;
   float: left;
 }
