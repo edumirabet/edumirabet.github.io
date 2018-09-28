@@ -6,6 +6,18 @@
   box-sizing: border-box;
 }
 
+@media only screen and (max-width: 1564px) {
+    .responsive {
+        width: 33.33333%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+  }
+}
+
 .navbar {
   background-color: #fff;
   color: #000;
@@ -132,7 +144,7 @@
 
 .card_container {
   position: relative;
-  width: 33.3333%;
+ /*+width: 33.3333%;*/
   padding: 0 8px;
   margin-bottom: 16px !important;
   float: left;
