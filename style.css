@@ -150,7 +150,7 @@
   }
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 675px) {
     .responsive {
         width: 100%;
         float: none;
