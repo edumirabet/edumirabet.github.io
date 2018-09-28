@@ -125,15 +125,13 @@
   letter-spacing: 3px;
 }
 
-.cards_grid_area {
-  display: grid;
-  grid-template-columns: 33% 33% 33%;
+.cards_row{
+  padding: 0 8px;
 }
 
-.cards {
-  background-color: blue;
+.card_container {
+  position: relative;
 }
-
 
 /*
 p.short_intro {
