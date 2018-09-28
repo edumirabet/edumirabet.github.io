@@ -144,9 +144,8 @@ h4 {
 
 .card_container {
  /*+width: 33.3333%;*/
-  /*padding: 0;*/
+  padding: 0 8px;
   margin-bottom: 16px !important;
-  margin: 0 8px;
   float: left;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
