@@ -105,7 +105,7 @@
 
 .content {
   max-width: 1564px;
-  padding: 8px 50px !important;
+  padding: 8px 40px !important;
   margin: auto;
 }
 
@@ -144,7 +144,7 @@
     }
 }
 
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1200px) {
     .responsive {
         width: 50%;
   }
