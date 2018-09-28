@@ -6,17 +6,6 @@
   box-sizing: border-box;
 }
 
-@media only screen and (max-width: 1564px) {
-    .responsive {
-        width: 33.33333%;
-    }
-}
-
-@media only screen and (max-width: 500px) {
-    .responsive {
-        width: 100%;
-  }
-}
 
 .navbar {
   background-color: #fff;
@@ -139,7 +128,6 @@
 
 .cards_row {
   padding: 0 8px;
-  box-sizing: inherit;
 }
 
 .card_container {
@@ -151,12 +139,25 @@
   box-sizing: inherit;
 }
 
+@media only screen and (max-width: 1564px) {
+    .responsive {
+        width: 33.33333%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+        float: none;
+        display: block;
+  }
+}
+
 .card {
   position: relative;
   vertical-align: middle;
   width: 100%;
   border-style: none;
-  box-sizing: inherit;
 }
 
 /*
