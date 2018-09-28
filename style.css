@@ -143,12 +143,12 @@ h4 {
 }
 
 .card_container {
-  /*position: relative;*/
+  position: relative;
  /*+width: 33.3333%;*/
   /*padding: 0;*/
   margin-bottom: 16px !important;
   margin: 0 8px;
-  float: left;
+  /*float: left;*/
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
