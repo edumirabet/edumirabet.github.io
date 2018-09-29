@@ -172,8 +172,8 @@ h4 {
   padding: 0 8px;
   margin-bottom: 16px !important;
   margin-top: 16px !important;
-  float: left;
-  display: inline;
+  float: none;
+  /*display: inline;*/
 }
 
 .card_telescope_container_image {
@@ -181,7 +181,7 @@ h4 {
   padding: 0 8px;
   margin-bottom: 16px !important;
   margin-top: 16px !important;
-  float: none;
+  float: left;
 }
 .card_telescope_display {
   position: relative;
