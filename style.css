@@ -173,6 +173,7 @@ h4 {
   margin-bottom: 16px !important;
   margin-top: 16px !important;
   float: left;
+  display: inline;
 }
 
 .card_telescope_container_image {
