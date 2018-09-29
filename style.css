@@ -173,6 +173,14 @@ h4 {
   float: left;
 }
 
+.card_telescope_container_text {
+ /*+width: 33.3333%;*/
+  /*padding: 0 8px;
+  margin-bottom: 16px !important;
+  margin-top: 16px !important;*/
+  float: left;
+}
+
 .card_telescope_display_left {
   position: relative;
   /*box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);*/
