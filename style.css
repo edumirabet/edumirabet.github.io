@@ -175,6 +175,13 @@ h4 {
   float: left;
 }
 
+.card_telescope_container_image {
+ /*+width: 33.3333%;*/
+  padding: 0 8px;
+  margin-bottom: 16px !important;
+  margin-top: 16px !important;
+  float: none;
+}
 .card_telescope_display {
   position: relative;
   margin: 0 5px;
