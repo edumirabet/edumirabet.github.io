@@ -172,10 +172,17 @@ h4 {
   float: left;
 }
 
-.card_telescope_display {
+.card_telescope_display_left {
   position: relative;
   /*box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);*/
   box-shadow: -5px -2px 5px 0 rgba(0,0,0,0.16);
+  /*margin: 0 5px;*/
+}
+
+.card_telescope_display_right {
+  position: relative;
+  /*box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);*/
+  box-shadow: 5px 2px 5px 0 rgba(0,0,0,0.16);
   /*margin: 0 5px;*/
 }
 
@@ -205,7 +212,7 @@ h4 {
     }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1000px) {
     .responsive_b {
         width: 100%;
         float: none;
@@ -219,7 +226,7 @@ h4 {
     }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1000px) {
     .responsive_c {
         width: 100%;
         float: none;
