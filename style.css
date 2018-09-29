@@ -162,6 +162,9 @@ h4 {
 
 .cards_telescope_row {
   padding: 0 8px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+  float: none;
+  
 }
 
 .card_telescope_container {
@@ -170,7 +173,6 @@ h4 {
   margin-bottom: 16px !important;
   margin-top: 16px !important;
   float: left;
-  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
 .card_telescope_display {
