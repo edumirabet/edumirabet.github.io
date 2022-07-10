@@ -49,9 +49,8 @@ h4 {
 /* Change the background color on mouse-over */
 
 .navbar a:hover {
-  background-color: rgb(221, 208, 148);
-  color: black;
-  margin: 0px 2px;  
+  background-color: rgb(236, 234, 97);
+  color: black;  
 }
 
 /* Style the active/current link*/
