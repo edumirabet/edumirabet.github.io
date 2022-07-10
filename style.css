@@ -33,8 +33,9 @@ h4 {
 .navbar a {
   float: left;
   text-align: center;
-  padding: 12px;
-  font-size: 15px;
+  text-decoration: none;
+  padding: auto 10px;
+  font-size: 16 px;
   font-family: Arial;
   color: black;
   border-radius: 2px;
