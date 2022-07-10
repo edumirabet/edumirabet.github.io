@@ -106,9 +106,10 @@ h4 {
 }
 
 .content {
-  max-width: 1564px;
-  padding: 8px 100px !important;
-  margin: auto;
+  width: 100%;
+  height: 500px;
+  margin: 10px auto;
+  overflow: scroll;
 }
 
 .section_container {
