@@ -81,7 +81,7 @@ h4 {
 }
 
 .home_header {
-  background-image: src="Images/Pedalsdefoc.jpg";
+  background-image: url(Images/Pedalsdefoc.jpg);
   position: relative;
   margin: auto;
   width: 100%;
