@@ -22,7 +22,7 @@ h4 {
   background-color: #fff;
   color: #000;
   overflow: hidden;
-  padding: 8px 16px;
+  padding: 5px 10px;
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -33,14 +33,12 @@ h4 {
 .navbar a {
   float: left;
   text-align: center;
-  text-decoration: none;
   padding: 12px;
   font-size: 15px;
   font-family: Arial;
   color: black;
-  line height: 22.5px;
   border-radius: 2px;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
 }
   
 .navbar a.logo {
@@ -242,16 +240,4 @@ h4 {
         display: block;
   }
 }
-
-   /* <div class="cards_telescope_row">
-      <div class="card_telescope_container responsive_b">
-        <div class="card_text"> 
-          <h4>3D Design</h4>
-          <p>Hola Hola que tal com va beeee</p>
-        </div>
-      </div>
-      <div class="card_telescope_container responsive_C">
-        <img src="Images/Design.jpg" width="100%">
-      </div>  
-    </div>*/
 
